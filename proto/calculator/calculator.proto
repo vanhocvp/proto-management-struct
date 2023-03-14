@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package calculator;
-option go_package="github.com/vanhocvp/basic-grpc-demo/protos/calculator";
+option go_package="/calculator";
 
 
 service Calculator {
